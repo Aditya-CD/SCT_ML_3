@@ -1,4 +1,4 @@
-# 🐶🐱 SVM-CNN Dog vs. Cat Image Classifier
+# SVM-CNN Dog vs. Cat Image Classifier
 
 Welcome to your **SVM-CNN Dog vs. Cat Image Classifier!** This project integrates the feature-extracting power of CNNs with the max-margin strengths of SVM, delivering robust, margin-aware predictions for pet images.
 
@@ -75,13 +75,16 @@ Visualizing the classifier’s actual predictions brings your model to life. Her
 
 ### Example 1: Correct Prediction — Dog
 
+<img width="982" height="254" alt="image" src="https://github.com/user-attachments/assets/b11f6772-03b5-4470-987a-4d176c053aef" />
+
 > **The model correctly classifies this image as a Dog.**
 
 ### Example 2: Correct Prediction — Cat
 
+<img width="982" height="256" alt="image" src="https://github.com/user-attachments/assets/9d306512-5391-485b-8b69-063c18e2f1e0" />
+
 > **The model correctly classifies this image as a Cat.**
 
-*Replace these images with your own output samples for a more personalized showcase!*
 
 ## 🔬 Example: Hinge Loss Code (PyTorch)
 
